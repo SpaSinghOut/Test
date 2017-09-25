@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="JDA-3.2.0_259-withDependencies.jar" sourcepath="JDA-3.2.0_259-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Test/JDA-3.2.0_259-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/http commons"/>
+	<classpathentry kind="lib" path="lib/jsoup/jsoup-1.10.3.jar" sourcepath="lib/jsoup/jsoup-1.10.3-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Test/lib/jsoup/jsoup-1.10.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/slf4j/slf4j-jdk14-1.7.25.jar" sourcepath="lib/slf4j/slf4j-jdk14-1.7.25-sources.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/lavaplayer"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
